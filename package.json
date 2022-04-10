@@ -12,8 +12,10 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.ts"
+    "watch": "npx tsc -w",
+    "dev": "nodemon dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "",

@@ -1,11 +1,10 @@
-import { SlashCommandBuilder } from '@discordjs/builders';
 import DiscordJS, { Intents, MessageEmbed  } from 'discord.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
 dotenv.config()
 
 
-const animeData = JSON.parse(fs.readFileSync('./springAnimes', 'utf8'));
+const animeData = JSON.parse(fs.readFileSync('./data/springAnimes', 'utf8'));
 //console.log(animeData[0])
 
 
@@ -96,6 +95,12 @@ const filterObjects = (term:any, obj: any, original: any, store: any) => {
     return data;
 };
 
+const filterOnKeys = (stringKey:any) => {
+    return animeData.filter((e:any) => {
+        return e?.data?.information?.genres?.filter((obj:any) => {return obj.name.toLowerCase() === stringKey?.toLowerCase()}).length > 0;
+    });
+}
+
 client.on('interactionCreate', async (interaction) => {
     if (!interaction.isCommand()) return;
 
@@ -153,13 +158,8 @@ client.on('interactionCreate', async (interaction) => {
             });
             break;
         case 'genre':
-            match  = animeData.filter((e:any) => {
-                let matchGenre = options.getString('genre');
-                return e?.data?.information?.genres?.filter((obj:any) => {return obj.name.toLowerCase() === matchGenre?.toLowerCase()}).length > 0;
-            });
-            console.log(match.length)
+            match  = filterOnKeys(options.getString('genre'));
             const currentAnime = match[getRandomIntInclusive(0, match.length-1)];
-            console.log(currentAnime);
             stringThemes = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.themes ? currentAnime?.data?.information?.themes : "N/A" ));
             stringStudios = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.studios ? currentAnime?.data?.information?.studios : "N/A" ));
             stringGenres = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.genres ? currentAnime?.data?.information?.genres : "N/A" ));
