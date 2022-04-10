@@ -1,0 +1,4278 @@
+[
+  {
+    "url": "https://myanimelist.net/anime/40356/Tate_no_Yuusha_no_Nariagari_Season_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1143/121873.jpg",
+    "title": {
+      "common": "Tate no Yuusha no Nariagari Season 2",
+      "english": "The Rising of the Shield Hero Season 2"
+    },
+    "description": {
+      "synopsis": "Second season of Tate no Yuusha no Nariagari.",
+      "styled": "Second season of <i>Tate no Yuusha no Nariagari</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Tate no Yuusha no Nariagari 2nd Season",
+        "japanese": "盾の勇者の成り上がり Season2",
+        "english": "The Rising of the Shield Hero Season 2"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "13",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 22:00 (JST)",
+        "producers": [
+          {
+            "name": "Glovision",
+            "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=40356&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Kinema Citrus",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+          },
+          {
+            "name": "DR Movie",
+            "url": "https://myanimelist.net/anime/producer/1575/DR_Movie"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.78",
+        "ranked": "#903",
+        "popularity": 376,
+        "members": 467134,
+        "favorites": 10403
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic",
+    "image": "https://cdn.myanimelist.net/images/anime/1430/118919.jpg",
+    "title": {
+      "common": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+      "english": "Kaguya-sama: Love Is War - Ultra Romantic"
+    },
+    "description": {
+      "synopsis": "Third season of Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen.\n\nEpisode 1 was previewed at screenings in Los Angeles and New York on April 2, 2022. Regular broadcasting began on April 9, 2022.",
+      "styled": "Third season of <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i>.<br>\n<br>\n<b><span style=\"font-size: 90%;\">Episode 1 was previewed at screenings in Los Angeles and New York on April 2, 2022. Regular broadcasting began on April 9, 2022.</span></b>"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3rd Season, Kaguya-sama: Love is War Season 3rd Season",
+        "japanese": "かぐや様は告らせたい-ウルトラロマンティック-",
+        "english": "Kaguya-sama: Love Is War - Ultra Romantic"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          },
+          {
+            "name": "Magic Capsule",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+          },
+          {
+            "name": "Shueisha",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=43608&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Psychological",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+          },
+          {
+            "name": "Romantic Subtext",
+            "url": "https://myanimelist.net/anime/genre/74/Romantic_Subtext"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "8.63",
+        "ranked": "#692",
+        "popularity": 556,
+        "members": 329430,
+        "favorites": 3688
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50265/Spy_x_Family",
+    "image": "https://cdn.myanimelist.net/images/anime/1440/121382.jpg",
+    "title": {
+      "common": "Spy x Family",
+      "english": null
+    },
+    "description": {
+      "synopsis": "For the agent known as \"Twilight,\" no order is too tall if it is for the sake of peace. Operating as Westalis' master spy, Twilight works tirelessly to prevent extremists from sparking a war with neighboring country Ostania. For his latest mission, he must investigate Ostanian politician Donovan Desmond by infiltrating his son's school: the prestigious Eden Academy. Thus, the agent faces the most difficult task of his career: get married, have a child, and play family.\n\nTwilight, or \"Loid Forger,\" quickly adopts the unassuming orphan Anya to play the role of a six-year-old daughter and prospective Eden Academy student. For a wife, he comes across Yor Briar, an absent-minded office worker who needs a pretend partner of her own to impress her friends. However, Loid is not the only one with a hidden nature. Yor moonlights as the lethal assassin \"Thorn Princess.\" For her, marrying Loid creates the perfect cover. Meanwhile, Anya is not the ordinary girl she appears to be; she is an esper, the product of secret experiments that allow her to read minds. Although she uncovers their true identities, Anya is thrilled that her new parents are cool secret agents! She would never tell them, of course. That would ruin the fun.\n\nUnder the guise of \"The Forgers,\" the spy, the assassin, and the esper must act as a family while carrying out their own agendas. Although these liars and misfits are only playing parts, they soon find that family is about far more than blood relations. \n\n[Written by MAL Rewrite]",
+      "styled": "For the agent known as \"Twilight,\" no order is too tall if it is for the sake of peace. Operating as Westalis' master spy, Twilight works tirelessly to prevent extremists from sparking a war with neighboring country Ostania. For his latest mission, he must investigate Ostanian politician Donovan Desmond by infiltrating his son's school: the prestigious Eden Academy. Thus, the agent faces the most difficult task of his career: get married, have a child, and play family.<br>\n<br>\nTwilight, or \"Loid Forger,\" quickly adopts the unassuming orphan Anya to play the role of a six-year-old daughter and prospective Eden Academy student. For a wife, he comes across Yor Briar, an absent-minded office worker who needs a pretend partner of her own to impress her friends. However, Loid is not the only one with a hidden nature. Yor moonlights as the lethal assassin \"Thorn Princess.\" For her, marrying Loid creates the perfect cover. Meanwhile, Anya is not the ordinary girl she appears to be; she is an esper, the product of secret experiments that allow her to read minds. Although she uncovers their true identities, Anya is thrilled that her new parents are cool secret agents! She would never tell them, of course. That would ruin the fun.<br>\n<br>\nUnder the guise of \"The Forgers,\" the spy, the assassin, and the esper must act as a family while carrying out their own agendas. Although these liars and misfits are only playing parts, they soon find that family is about far more than blood relations. <br>\n<br>\n[Written by MAL Rewrite]"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "SPY×FAMILY"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 9, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 23:00 (JST)",
+        "producers": [
+          {
+            "name": "TOHO animation",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50265&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+          },
+          {
+            "name": "CloverWorks",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Childcare",
+            "url": "https://myanimelist.net/anime/genre/53/Childcare"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 784,
+        "members": 245869,
+        "favorites": 2732
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50631/Komi-san_wa_Comyushou_desu_2nd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1108/121157.jpg",
+    "title": {
+      "common": "Komi-san wa, Comyushou desu. 2nd Season",
+      "english": "Komi Can't Communicate"
+    },
+    "description": {
+      "synopsis": "Second season of Komi-san wa, Comyushou desu..",
+      "styled": "Second season of <i>Komi-san wa, Comyushou desu.</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Komi-san wa, Communication Shougai desu. 2",
+        "japanese": "古見さんは、コミュ症です。",
+        "english": "Komi Can't Communicate"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 7, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Thursdays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": "Shogakukan-Shueisha Productions",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+          },
+          {
+            "name": "Half H.P Studio",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50631&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Romantic Subtext",
+            "url": "https://myanimelist.net/anime/genre/74/Romantic_Subtext"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "8.42",
+        "ranked": "#151",
+        "popularity": 1118,
+        "members": 168672,
+        "favorites": 1108
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/45613/Kawaii_dake_ja_Nai_Shikimori-san",
+    "image": "https://cdn.myanimelist.net/images/anime/1995/121695.jpg",
+    "title": {
+      "common": "Kawaii dake ja Nai Shikimori-san",
+      "english": "Shikimori's Not Just a Cutie"
+    },
+    "description": {
+      "synopsis": "Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be... but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens! \n\n(Source: Kodansha Comics)",
+      "styled": "Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be... but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens! <br>\n<br>\n(Source: Kodansha Comics)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Shikimori's Not Just a Cutie, Miss Shikimori is not just cute, That Girl Is Not Just Cute",
+        "japanese": "可愛いだけじゃない式守さん",
+        "english": "Shikimori's Not Just a Cutie"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 10, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 02:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=45613&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=45613&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Doga Kobo",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 1187,
+        "members": 160543,
+        "favorites": 1470
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/41461/Date_A_Live_IV",
+    "image": "https://cdn.myanimelist.net/images/anime/1368/121281.jpg",
+    "title": {
+      "common": "Date A Live IV",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Fourth season of Date A Live.",
+      "styled": "Fourth season of <i>Date A Live</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Date A Live 4, Date A Live Fourth Season, DAL 4",
+        "japanese": "デート・ア・ライブⅣ",
+        "english": "Date A Live IV"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Not yet aired",
+        "aired": "Apr 8, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Fridays at 22:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=41461&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=41461&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "GEEK TOYS",
+            "url": "https://myanimelist.net/anime/producer/1857/GEEK_TOYS"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          },
+          {
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Harem",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+          },
+          {
+            "name": "Mecha",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "R - 17+ (violence & profanity)"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 1350,
+        "members": 135502,
+        "favorites": 1881
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai",
+    "image": "https://cdn.myanimelist.net/images/anime/1612/120636.jpg",
+    "title": {
+      "common": "Aharen-san wa Hakarenai",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Reina Aharen, a small and cute student with a quiet voice, is quite bad at determining distance and personal space. Sometimes she's inches away from your face, and at other times, miles too far! The only one who tries to understand her antics is Raidou Matsuboshi, who is seated beside her in class. He has a menacing face, but in reality, he is a kind boy with an imagination that can run wild at times.\n\nAharen-san wa Hakarenai follows the peculiar pair as their odd friendship starts to blossom when Raidou picks up Aharen's eraser for her. She misinterprets his gesture and now believes them to be best friends, showing how the simplest of things can prove to be the most complicated of challenges for them. \n\n[Written by MAL Rewrite]",
+      "styled": "Reina Aharen, a small and cute student with a quiet voice, is quite bad at determining distance and personal space. Sometimes she's inches away from your face, and at other times, miles too far! The only one who tries to understand her antics is Raidou Matsuboshi, who is seated beside her in class. He has a menacing face, but in reality, he is a kind boy with an imagination that can run wild at times.<br>\n<br>\nAharen-san wa Hakarenai follows the peculiar pair as their odd friendship starts to blossom when Raidou picks up Aharen's eraser for her. She misinterprets his gesture and now believes them to be best friends, showing how the simplest of things can prove to be the most complicated of challenges for them. <br>\n<br>\n[Written by MAL Rewrite]"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Aharen Is Indecipherable",
+        "japanese": "阿波連さんははかれない",
+        "english": "Aharen-san wa Hakarenai"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 02:25 (JST)",
+        "producers": [
+          {
+            "name": "bilibili",
+            "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49520&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Felix Film",
+            "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.70",
+        "ranked": "#108",
+        "popularity": 1496,
+        "members": 117508,
+        "favorites": 739
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50175/Yuusha_Yamemasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg",
+    "title": {
+      "common": "Yuusha, Yamemasu",
+      "english": "I'm Quitting Heroing"
+    },
+    "description": {
+      "synopsis": "After saving the world, the strongest hero Leo became someone who is not wanted in the peaceful human world. He was too strong. Exiled, he seeks a job at the Demon King's Army, which he had defeated and needs to be rebuilt.\n\nThe Army had many problems: too much work, financial troubles, etc. Leo starts to make things better using his power. Leo encounters Echidna again, and asks her why she invaded the human world. There was an unexpected story...! \n\n(Source: Kadokawa)",
+      "styled": "After saving the world, the strongest hero Leo became someone who is not wanted in the peaceful human world. He was too strong. Exiled, he seeks a job at the Demon King's Army, which he had defeated and needs to be rebuilt.<br>\n<br>\nThe Army had many problems: too much work, financial troubles, etc. Leo starts to make things better using his power. Leo encounters Echidna again, and asks her why she invaded the human world. There was an unexpected story...! <br>\n<br>\n(Source: Kadokawa)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Yuuyame",
+        "japanese": "勇者、辞めます",
+        "english": "I'm Quitting Heroing"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 5, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Tuesdays at 22:30 (JST)",
+        "producers": [
+          {
+            "name": "AT-X",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+          },
+          {
+            "name": "flying DOG",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+          },
+          {
+            "name": "Glovision",
+            "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+          },
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          },
+          {
+            "name": "Tencent Games",
+            "url": "https://myanimelist.net/anime/producer/1880/Tencent_Games"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50175&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "EMT Squared",
+            "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.20",
+        "ranked": "#294",
+        "popularity": 1979,
+        "members": 80424,
+        "favorites": 620
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48675/Kakkou_no_Iinazuke",
+    "image": "https://cdn.myanimelist.net/images/anime/1285/120529.jpg",
+    "title": {
+      "common": "Kakkou no Iinazuke",
+      "english": "A Couple of Cuckoos"
+    },
+    "description": {
+      "synopsis": "16-year-old super-studier Nagi Umino, second-year student at the Meguro River Academy high school, was switched at birth. On his way to a dinner to meet his birth parents, he accidentally meets the brash, outspoken, Erika Amano, who is determined to make Nagi her fake boyfriend as she never wants to actually marry. But once Nagi makes it to dinner, he finds his parents have decided to resolve the hospital switch by conveniently having him marry the daughter his birth parents raised...who turns out to be none other than Erika herself!\n\n(Source: Kodansha USA)",
+      "styled": "16-year-old super-studier Nagi Umino, second-year student at the Meguro River Academy high school, was switched at birth. On his way to a dinner to meet his birth parents, he accidentally meets the brash, outspoken, Erika Amano, who is determined to make Nagi her fake boyfriend as she never wants to actually marry. But once Nagi makes it to dinner, he finds his parents have decided to resolve the hospital switch by conveniently having him marry the daughter his birth parents raised...who turns out to be none other than Erika herself!<br>\n<br>\n(Source: Kodansha USA)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Cuckoo's Fiancee",
+        "japanese": "カッコウの許嫁",
+        "english": "A Couple of Cuckoos"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "24",
+        "status": "Not yet aired",
+        "aired": "Apr 24, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 01:30 (JST)",
+        "producers": [
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48675&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "SynergySP",
+            "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+          },
+          {
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Harem",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 1988,
+        "members": 79835,
+        "favorites": 903
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/43470/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita_Heart",
+    "image": "https://cdn.myanimelist.net/images/anime/1109/118948.jpg",
+    "title": {
+      "common": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+      "english": "Science Fell in Love, So I Tried to Prove It r=1-sinθ"
+    },
+    "description": {
+      "synopsis": "Second season of Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+      "styled": "Second season of <i>Rikei ga Koi ni Ochita no de Shoumei shitemita.</i>"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Science Fell in Love, So I Tried to Prove It 2nd Season, Rikekoi, Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ",
+        "japanese": "理系が恋に落ちたので証明してみた。r=1-sinθ（ハート）",
+        "english": "Science Fell in Love, So I Tried to Prove It r=1-sinθ"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 01:30 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=43470&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=43470&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=43470&t=producers"
+          }
+        ],
+        "source": "Web manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.57",
+        "ranked": "#143",
+        "popularity": 2054,
+        "members": 74949,
+        "favorites": 257
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50273/Tomodachi_Game",
+    "image": "https://cdn.myanimelist.net/images/anime/1247/121345.jpg",
+    "title": {
+      "common": "Tomodachi Game",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Yuuichi Katagiri has battled financial hardships his whole life but has learned to stay content and positive thanks to his close circle of friends. To keep a promise he made to them, Yuuichi saves up enough money to join them on the school trip. But when the gathered money mysteriously goes missing, suspicion falls on two of Yuuichi's friends: Shiho Sawaragi and Makoto Shibe, who were in charge of collecting the payments. Although innocent, Shiho and Makoto take responsibility for the failure to protect the money when no one else comes forward.\n\nA few days later, Yuuichi and his friends receive mysterious letters which trick each of them into meeting up. Upon arrival, they are ambushed and knocked unconscious. They wake up in a mysterious room in the presence of \"Manabu-kun,\" a character from a controversial children's show that stopped airing due to its malicious content. He informs the group that one of them indirectly gathered them together in order to settle a large debt. They are to play a \"friendship game\": a series of games that will test the strength of their bond and trust in each other. As the group's faith wavers due to the growing number of secrets and betrayals, Yuuichi must figure out who of his \"friends\" he can actually trust and ultimately discover the identity of the traitor. \n\n[Written by MAL Rewrite]",
+      "styled": "Yuuichi Katagiri has battled financial hardships his whole life but has learned to stay content and positive thanks to his close circle of friends. To keep a promise he made to them, Yuuichi saves up enough money to join them on the school trip. But when the gathered money mysteriously goes missing, suspicion falls on two of Yuuichi's friends: Shiho Sawaragi and Makoto Shibe, who were in charge of collecting the payments. Although innocent, Shiho and Makoto take responsibility for the failure to protect the money when no one else comes forward.<br>\n<br>\nA few days later, Yuuichi and his friends receive mysterious letters which trick each of them into meeting up. Upon arrival, they are ambushed and knocked unconscious. They wake up in a mysterious room in the presence of \"Manabu-kun,\" a character from a controversial children's show that stopped airing due to its malicious content. He informs the group that one of them indirectly gathered them together in order to settle a large debt. They are to play a \"friendship game\": a series of games that will test the strength of their bond and trust in each other. As the group's faith wavers due to the growing number of secrets and betrayals, Yuuichi must figure out who of his \"friends\" he can actually trust and ultimately discover the identity of the traitor. <br>\n<br>\n[Written by MAL Rewrite]"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Friends Game",
+        "japanese": "トモダチゲーム",
+        "english": "Tomodachi Game"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 01:29 (JST)",
+        "producers": [
+          {
+            "name": "Studio Mausu",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+          },
+          {
+            "name": "Nippon Television Network",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50273&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Okuruto Noboru",
+            "url": "https://myanimelist.net/anime/producer/2037/Okuruto_Noboru"
+          }
+        ],
+        "source": "Manga",
+        "themes": [
+          {
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+          },
+          {
+            "name": "Psychological",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+          },
+          {
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "22 min. per ep.",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": "7.36",
+        "ranked": "#216",
+        "popularity": 2125,
+        "members": 71292,
+        "favorites": 373
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48760/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1361/120706.jpg",
+    "title": {
+      "common": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "english": "Skeleton Knight in Another World"
+    },
+    "description": {
+      "synopsis": "One day, a gamer played video games until he fell asleep...and when he woke up, he found himself in the game world—as a skeleton! Equipped with the powerful weapons and armor of his avatar but stuck with its frightening skeletal appearance, Arc has to find a place for himself in this new, fantastical land. All his hopes for a quiet life are dashed when he crosses paths with a beautiful elven warrior, setting him on a journey full of conflict and adventure.\n\n(Source: Seven Seas Entertainment)",
+      "styled": "One day, a gamer played video games until he fell asleep...and when he woke up, he found himself in the game world—as a skeleton! Equipped with the powerful weapons and armor of his avatar but stuck with its frightening skeletal appearance, Arc has to find a place for himself in this new, fantastical land. All his hopes for a quiet life are dashed when he crosses paths with a beautiful elven warrior, setting him on a journey full of conflict and adventure.<br>\n<br>\n(Source: Seven Seas Entertainment)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Skeleton Knight going out to the parallel universe",
+        "japanese": "骸骨騎士様、只今異世界へお出掛け中",
+        "english": "Skeleton Knight in Another World"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 7, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Thursdays at 23:30 (JST)",
+        "producers": [
+          {
+            "name": "Pony Canyon",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+          },
+          {
+            "name": "AT-X",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+          },
+          {
+            "name": "DAX Production",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+          },
+          {
+            "name": "Docomo Anime Store",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+          },
+          {
+            "name": "Overlap",
+            "url": "https://myanimelist.net/anime/producer/1443/Overlap"
+          },
+          {
+            "name": "Crunchyroll",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+          },
+          {
+            "name": "Muse Communication",
+            "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+          },
+          {
+            "name": "MAGNET",
+            "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48760&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Studio Kai",
+            "url": "https://myanimelist.net/anime/producer/1997/Studio_Kai"
+          },
+          {
+            "name": "HORNETS",
+            "url": "https://myanimelist.net/anime/producer/2097/HORNETS"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "R - 17+ (violence & profanity)"
+      },
+      "statistics": {
+        "score": "7.40",
+        "ranked": "#202",
+        "popularity": 2160,
+        "members": 69700,
+        "favorites": 494
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48415/Shijou_Saikyou_no_Daimaou_Murabito_A_ni_Tensei_suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1904/120095.jpg",
+    "title": {
+      "common": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+      "english": "The Greatest Demon Lord Is Reborn as a Typical Nobody"
+    },
+    "description": {
+      "synopsis": "As the most powerful entity of all time, the Demon Lord Varvatos thinks life is a big fat snore. When he takes matters into his own hands and decides to reincarnate, he calibrates his magical strength to be perfectly average. But there is no way he could have predicted that everyone in the modern world would be weak as hell, which means he is totally overpowered once again! Reborn under the name Ard, he has ladies fawning over him, the royal family begging him to become the next king, and an ex-minion insisting on killing him?! But Ard has a one-track mind, and he won't stop at anything to achieve his ultimate goal!\n\n(Source: Yen Press)",
+      "styled": "As the most powerful entity of all time, the Demon Lord Varvatos thinks life is a big fat snore. When he takes matters into his own hands and decides to reincarnate, he calibrates his magical strength to be perfectly average. But there is no way he could have predicted that everyone in the modern world would be weak as hell, which means he is totally overpowered once again! Reborn under the name Ard, he has ladies fawning over him, the royal family begging him to become the next king, and an ex-minion insisting on killing him?! But Ard has a one-track mind, and he won't stop at anything to achieve his ultimate goal!<br>\n<br>\n(Source: Yen Press)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "The Greatest Maou is Reborned to Get Friends",
+        "japanese": "史上最強の大魔王、村人Aに転生する",
+        "english": "The Greatest Demon Lord Is Reborn as a Typical Nobody"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 21:00 (JST)",
+        "producers": [
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48415&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "SILVER LINK.",
+            "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+          },
+          {
+            "name": "Blade",
+            "url": "https://myanimelist.net/anime/producer/1547/Blade"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "24 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.97",
+        "ranked": "#399",
+        "popularity": 2236,
+        "members": 66025,
+        "favorites": 576
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/42429/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_3rd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1976/122302.jpg",
+    "title": {
+      "common": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+      "english": "Ascendance of a Bookworm"
+    },
+    "description": {
+      "synopsis": "Third season of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen.",
+      "styled": "Third season of <i>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Ascendance of a Bookworm 3rd Season",
+        "japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～",
+        "english": "Ascendance of a Bookworm"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 12, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Tuesdays at 02:29 (JST)",
+        "producers": [
+          {
+            "name": "flying DOG",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=42429&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          },
+          {
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 2356,
+        "members": 60159,
+        "favorites": 288
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/47194/Summertime_Render",
+    "image": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+    "title": {
+      "common": "Summertime Render",
+      "english": "Summer Time Rendering"
+    },
+    "description": {
+      "synopsis": "After his parents died, Shinpei Ajiro lived with the Kofune sisters, Mio and Ushio, but he has since moved to live on his own in Tokyo. But after Ushio drowns while trying to save the young Shiori Kobayakawa, he returns home to mourn her departure. However, bruises around Ushio's neck bring her cause of death into question.\n\nTaking a step back, Shinpei becomes convinced there must be another explanation. Dangerous entities roam among the islanders, and a vision of deceased Ushio asks him to \"save Mio\" as her final request. He is certain that something is afoot—and Ushio's death is only a piece of the puzzle.\n\nWith the help of Mio and various others, Shinpei struggles to forge a future in which he, his friends, and family can stay alive. But the more he investigates, the more impossible such a future seems. This darkness infiltrates his home island. Just how much more suffering will he go through before finding the right path to save it all? \n\n[Written by MAL Rewrite]",
+      "styled": "After his parents died, Shinpei Ajiro lived with the Kofune sisters, Mio and Ushio, but he has since moved to live on his own in Tokyo. But after Ushio drowns while trying to save the young Shiori Kobayakawa, he returns home to mourn her departure. However, bruises around Ushio's neck bring her cause of death into question.<br>\n<br>\nTaking a step back, Shinpei becomes convinced there must be another explanation. Dangerous entities roam among the islanders, and a vision of deceased Ushio asks him to \"save Mio\" as her final request. He is certain that something is afoot—and Ushio's death is only a piece of the puzzle.<br>\n<br>\nWith the help of Mio and various others, Shinpei struggles to forge a future in which he, his friends, and family can stay alive. But the more he investigates, the more impossible such a future seems. This darkness infiltrates his home island. Just how much more suffering will he go through before finding the right path to save it all? <br>\n<br>\n[Written by MAL Rewrite]"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "サマータイムレンダ",
+        "english": "Summer Time Rendering"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "25",
+        "status": "Not yet aired",
+        "aired": "Apr 15, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Fridays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=47194&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=47194&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Mystery",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+          },
+          {
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 2408,
+        "members": 58058,
+        "favorites": 282
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50461/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu",
+    "image": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+    "title": {
+      "common": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+      "english": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
+    },
+    "description": {
+      "synopsis": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire... of living a quiet, easy life in the countryside! \n\n(Source: Seven Seas Entertainment)",
+      "styled": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire... of living a quiet, easy life in the countryside! <br>\n<br>\n(Source: Seven Seas Entertainment)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Otomege Sekai wa Mob ni Kibishii Sekai desu, Mobseka",
+        "japanese": "乙女ゲー世界はモブに厳しい世界です",
+        "english": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 22:00 (JST)",
+        "producers": [
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50461&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "ENGI",
+            "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Harem",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+          },
+          {
+            "name": "Isekai",
+            "url": "https://myanimelist.net/anime/genre/62/Isekai"
+          },
+          {
+            "name": "Mecha",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+          },
+          {
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.81",
+        "ranked": "#469",
+        "popularity": 2496,
+        "members": 54550,
+        "favorites": 338
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/47162/Shokei_Shoujo_no_Virgin_Road",
+    "image": "https://cdn.myanimelist.net/images/anime/1423/122029.jpg",
+    "title": {
+      "common": "Shokei Shoujo no Virgin Road",
+      "english": "The Executioner and Her Way of Life"
+    },
+    "description": {
+      "synopsis": "The Lost Ones are wanderers who come here from a distant world known as \"Japan.\" No one knows how or why they leave their homes. The only thing that is certain is that they bring disaster and calamity. The duty of exterminating them without remorse falls to Menou, a young Executioner. When she meets Akari, it seems like just another job...until she discovers it's impossible to kill this girl! And when Menou begins to search for a way to defeat this immortality, Akari is more than happy to tag along! So begins a journey that will change Menou forever... \n\n(Source: Yen Press)",
+      "styled": "The Lost Ones are wanderers who come here from a distant world known as \"Japan.\" No one knows how or why they leave their homes. The only thing that is certain is that they bring disaster and calamity. The duty of exterminating them without remorse falls to Menou, a young Executioner. When she meets Akari, it seems like just another job...until she discovers it's impossible to kill this girl! And when Menou begins to search for a way to defeat this immortality, Akari is more than happy to tag along! So begins a journey that will change Menou forever... <br>\n<br>\n(Source: Yen Press)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Shokei Shoujo no Ikiru Michi",
+        "japanese": "処刑少女の生きる道〈バージンロード〉",
+        "english": "The Executioner and Her Way of Life"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 00:30 (JST)",
+        "producers": [
+          {
+            "name": "Warner Bros. Japan",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+          },
+          {
+            "name": "Hakuhodo DY Music & Pictures",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+          },
+          {
+            "name": "Egg Firm",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+          },
+          {
+            "name": "SB Creative",
+            "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=47162&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.07",
+        "ranked": "#356",
+        "popularity": 2665,
+        "members": 48235,
+        "favorites": 209
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48842/Mahoutsukai_Reimeiki",
+    "image": "https://cdn.myanimelist.net/images/anime/1093/121114.jpg",
+    "title": {
+      "common": "Mahoutsukai Reimeiki",
+      "english": "The Dawn of the Witch"
+    },
+    "description": {
+      "synopsis": "The war that raged between the Church and the Witches for five centuries finally ended in peace but a few short years ago. However, nestled in the shadowy places of the world, the embers of that age old conflict still smolder.\n\nAttending the Royal Academy of Magic of the Kingdom of Wenias is a struggling student named Sable, who has no memories of his time before being enrolled. At the command of Headmaster Albus, he left the Kingdom to travel to the southern reaches of the continent, where anti-magic insurgents are still a force to be reckoned with, as part of a special training regimen. Accompanying him are a party of individuals strong in both ability and personality; there's the one known as the Witch of the Dawn, Roux Cristasse, who seeks the forbidden knowledge of primeval magic in the \"Grimoire of Zero,\" the genius girl Holtz, as well as the school's sole beast, Kudd.\n\nJust what truth shall they uncover in their journey to the south...?\n\n(Source: MU)",
+      "styled": "The war that raged between the Church and the Witches for five centuries finally ended in peace but a few short years ago. However, nestled in the shadowy places of the world, the embers of that age old conflict still smolder.<br>\n<br>\nAttending the Royal Academy of Magic of the Kingdom of Wenias is a struggling student named Sable, who has no memories of his time before being enrolled. At the command of Headmaster Albus, he left the Kingdom to travel to the southern reaches of the continent, where anti-magic insurgents are still a force to be reckoned with, as part of a special training regimen. Accompanying him are a party of individuals strong in both ability and personality; there's the one known as the Witch of the Dawn, Roux Cristasse, who seeks the forbidden knowledge of primeval magic in the \"Grimoire of Zero,\" the genius girl Holtz, as well as the school's sole beast, Kudd.<br>\n<br>\nJust what truth shall they uncover in their journey to the south...?<br>\n<br>\n(Source: MU)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "魔法使い黎明期",
+        "english": "The Dawn of the Witch"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 8, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Fridays at 01:58 (JST)",
+        "producers": [
+          {
+            "name": "TBS",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+          },
+          {
+            "name": "Bit grooove promotion",
+            "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48842&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Tezuka Productions",
+            "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+          }
+        ],
+        "source": "Light novel",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.66",
+        "ranked": "#548",
+        "popularity": 2735,
+        "members": 45597,
+        "favorites": 286
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48643/Koi_wa_Sekai_Seifuku_no_Ato_de",
+    "image": "https://cdn.myanimelist.net/images/anime/1347/120593.jpg",
+    "title": {
+      "common": "Koi wa Sekai Seifuku no Ato de",
+      "english": "Love After World Domination"
+    },
+    "description": {
+      "synopsis": "In the eyes of the public, Fudou Aikawa and Desumi Magahara are sworn enemies who have nothing in common. Fudou, also known as \"Red Gelato,\" is the leader of the hero squadron \"Gelato 5,\" whose mission is to bring about world peace. On the other hand, Desumi is the minion leader of \"Gecko,\" a villainous organization seeking world domination. However, despite these differences, their relationship is not quite what it seems. When they are not making a show of being at each other's throats, Desumi and Fudou continue to pursue a forbidden love.\n\nGoing on dates, baking sweets for one another, and meeting up as often as they can despite their hectic schedules, the two inexperienced lovebirds pave the way for their own unique relationship. Though their public lives are worlds apart, Fudou and Desumi will stop at nothing to make their seemingly impossible romance work. \n\n[Written by MAL Rewrite]",
+      "styled": "In the eyes of the public, Fudou Aikawa and Desumi Magahara are sworn enemies who have nothing in common. Fudou, also known as \"Red Gelato,\" is the leader of the hero squadron \"Gelato 5,\" whose mission is to bring about world peace. On the other hand, Desumi is the minion leader of \"Gecko,\" a villainous organization seeking world domination. However, despite these differences, their relationship is not quite what it seems. When they are not making a show of being at each other's throats, Desumi and Fudou continue to pursue a forbidden love.<br>\n<br>\nGoing on dates, baking sweets for one another, and meeting up as often as they can despite their hectic schedules, the two inexperienced lovebirds pave the way for their own unique relationship. Though their public lives are worlds apart, Fudou and Desumi will stop at nothing to make their seemingly impossible romance work. <br>\n<br>\n[Written by MAL Rewrite]"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Koiseka",
+        "japanese": "恋は世界征服のあとで",
+        "english": "Love After World Domination"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 8, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Fridays at 21:30 (JST)",
+        "producers": [
+          {
+            "name": "Pony Canyon",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+          },
+          {
+            "name": "APDREAM",
+            "url": "https://myanimelist.net/anime/producer/1883/APDREAM"
+          },
+          {
+            "name": "Dream Shift",
+            "url": "https://myanimelist.net/anime/producer/2090/Dream_Shift"
+          }
+        ],
+        "licensors": [
+          {
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Project No.9",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 3180,
+        "members": 34822,
+        "favorites": 140
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume",
+    "image": "https://cdn.myanimelist.net/images/anime/1036/121135.jpg",
+    "title": {
+      "common": "Machikado Mazoku: 2-choume",
+      "english": "The Demon Girl Next Door 2"
+    },
+    "description": {
+      "synopsis": "Second season of Machikado Mazoku.",
+      "styled": "Second season of <i>Machikado Mazoku</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Machikado Mazoku 2nd Season, The Demon Girl Next Door 2nd Season",
+        "japanese": "まちカドまぞく 2丁目",
+        "english": "The Demon Girl Next Door 2"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 8, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Fridays at 01:28 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=42745&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=42745&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+          }
+        ],
+        "source": "4-koma manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.53",
+        "ranked": "#156",
+        "popularity": 3257,
+        "members": 33497,
+        "favorites": 100
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49052/Ao_Ashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1731/120871.jpg",
+    "title": {
+      "common": "Ao Ashi",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Ashito Aoi is a young, aspiring football player from a backwater town in Japan. His hopes of getting into a high school with a good football club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?\n\n(Source: Shogakukan Asia)",
+      "styled": "Ashito Aoi is a young, aspiring football player from a backwater town in Japan. His hopes of getting into a high school with a good football club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?<br>\n<br>\n(Source: Shogakukan Asia)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "\\",
+        "japanese": "アオアシ",
+        "english": "Aoashi"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 9, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 18:25 (JST)",
+        "producers": [
+          {
+            "name": "Shogakukan-Shueisha Productions",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49052&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 3440,
+        "members": 29795,
+        "favorites": 237
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49831/Black%E2%98%85%E2%98%85Rock_Shooter___Dawn_Fall",
+    "image": "https://cdn.myanimelist.net/images/anime/1549/121866.jpg",
+    "title": {
+      "common": "Black★★Rock Shooter:  Dawn Fall",
+      "english": null
+    },
+    "description": {
+      "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+      "styled": "No synopsis information has been added to this title. Help improve our database by adding a synopsis <a href=\"/dbchanges.php?aid=49831&amp;t=synopsis\">here</a>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ブラック★★ロックシューター DAWN FALL"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 23:00 (JST)",
+        "producers": [
+          {
+            "name": "Good Smile Company",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+          },
+          {
+            "name": "Imagine",
+            "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49831&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Bibury Animation Studios",
+            "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+          },
+          {
+            "name": "Bibury Animation CG",
+            "url": "https://myanimelist.net/anime/producer/2325/Bibury_Animation_CG"
+          }
+        ],
+        "source": "Other",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Super Power",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.06",
+        "ranked": "#855",
+        "popularity": 3816,
+        "members": 24256,
+        "favorites": 167
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48779/Deaimon",
+    "image": "https://cdn.myanimelist.net/images/anime/1054/121949.jpg",
+    "title": {
+      "common": "Deaimon",
+      "english": "Deaimon: Recipe for Happiness"
+    },
+    "description": {
+      "synopsis": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked to be a father figure to Itsuka Yukihira, the girl everyone calls the successor.\n\n(Source: Manga Translation Battle)",
+      "styled": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked to be a father figure to Itsuka Yukihira, the girl everyone calls the successor.<br>\n<br>\n(Source: Manga Translation Battle)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "であいもん",
+        "english": "Deaimon: Recipe for Happiness"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 23:30 (JST)",
+        "producers": [
+          {
+            "name": "flying DOG",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+          },
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          },
+          {
+            "name": "Midorimatsu",
+            "url": "https://myanimelist.net/anime/producer/2308/Midorimatsu"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48779&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Encourage Films",
+            "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "24 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.52",
+        "ranked": "#159",
+        "popularity": 3819,
+        "members": 24151,
+        "favorites": 53
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49692/Heroine_Tarumono_Kiraware_Heroine_to_Naisho_no_Oshigoto",
+    "image": "https://cdn.myanimelist.net/images/anime/1311/120270.jpg",
+    "title": {
+      "common": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
+      "english": "To Become a Real Heroine! The Unpopular Girl and the Secret Task"
+    },
+    "description": {
+      "synopsis": "Hiyori Suzumi, who left her hometown to continue pursuing her passion of track and field, enrolls in Tokyo's Sakuragaoka High School. In searching for a part-time job, Hiyori ends up becoming an apprentice manager for her classmates Yuujirou Someya and Aizou Shibasaki, who are members of the idol group LIPxLIP. The story follows the struggles that Hiyori faces with school, extracurricular activities, and her managing job, as well as the idol group LIPxLIP as they perform on stage.\n\n(Source: MAL News)",
+      "styled": "Hiyori Suzumi, who left her hometown to continue pursuing her passion of track and field, enrolls in Tokyo's Sakuragaoka High School. In searching for a part-time job, Hiyori ends up becoming an apprentice manager for her classmates Yuujirou Someya and Aizou Shibasaki, who are members of the idol group LIPxLIP. The story follows the struggles that Hiyori faces with school, extracurricular activities, and her managing job, as well as the idol group LIPxLIP as they perform on stage.<br>\n<br>\n(Source: MAL News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜",
+        "english": "To Become a Real Heroine! The Unpopular Girl and the Secret Task"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 7, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Thursdays at 22:30 (JST)",
+        "producers": [
+          {
+            "name": "Movic",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+          },
+          {
+            "name": "Futabasha",
+            "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+          },
+          {
+            "name": "U-NEXT",
+            "url": "https://myanimelist.net/anime/producer/1583/U-NEXT"
+          },
+          {
+            "name": "MusicRay’n",
+            "url": "https://myanimelist.net/anime/producer/1682/MusicRay%E2%80%99n"
+          },
+          {
+            "name": "INCS toenter",
+            "url": "https://myanimelist.net/anime/producer/1731/INCS_toenter"
+          },
+          {
+            "name": "Marui Group",
+            "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+          },
+          {
+            "name": "Lawson Entertainment",
+            "url": "https://myanimelist.net/anime/producer/2031/Lawson_Entertainment"
+          },
+          {
+            "name": "tamakoshi",
+            "url": "https://myanimelist.net/anime/producer/2235/tamakoshi"
+          },
+          {
+            "name": "flaggs",
+            "url": "https://myanimelist.net/anime/producer/2426/flaggs"
+          },
+          {
+            "name": "Laulea Works",
+            "url": "https://myanimelist.net/anime/producer/2427/Laulea_Works"
+          },
+          {
+            "name": "Alice",
+            "url": "https://myanimelist.net/anime/producer/2428/Alice"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49692&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Lay-duce",
+            "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+          }
+        ],
+        "source": "Music",
+        "themes": [
+          {
+            "name": "Idols (Male)",
+            "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.06",
+        "ranked": "#354",
+        "popularity": 4104,
+        "members": 20430,
+        "favorites": 98
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48702/Dance_Dance_Danseur",
+    "image": "https://cdn.myanimelist.net/images/anime/1571/121381.jpg",
+    "title": {
+      "common": "Dance Dance Danseur",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Junpei is happily snoozing away during his sister's ballet recital when a male ballet dancer steps onto the stage. Moved by the strength and skills the dancer displays, the boy discovers his love for this art.\n\nBut after a certain tragedy happens, he vows to leave his past behind and turn into the epitome of manliness! What will he do when his love for ballet reignites?! \n\n(Source: MU)",
+      "styled": "Junpei is happily snoozing away during his sister's ballet recital when a male ballet dancer steps onto the stage. Moved by the strength and skills the dancer displays, the boy discovers his love for this art.<br>\n<br>\nBut after a certain tragedy happens, he vows to leave his past behind and turn into the epitome of manliness! What will he do when his love for ballet reignites?! <br>\n<br>\n(Source: MU)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ダンス・ダンス・ダンスール",
+        "english": "Dance Dance Danseur"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 9, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 01:25 (JST)",
+        "producers": [
+          {
+            "name": "dugout",
+            "url": "https://myanimelist.net/anime/producer/1856/dugout"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48702&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 4136,
+        "members": 19967,
+        "favorites": 89
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50380/Paripi_Koumei",
+    "image": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
+    "title": {
+      "common": "Paripi Koumei",
+      "english": "Ya Boy Kongming!"
+    },
+    "description": {
+      "synopsis": "General of the Three Kingdoms, Kongming had struggled his whole life, facing countless battles that made him into the accomplished strategist he was. So on his deathbed, he wished only to be reborn into a peaceful world... and was sent straight to modern-day party-central, Tokyo! Can even a brilliant strategist like Kongming adapt to the wild beats and even wilder party people?! \n\n(Source: Kodansha US, edited)",
+      "styled": "General of the Three Kingdoms, Kongming had struggled his whole life, facing countless battles that made him into the accomplished strategist he was. So on his deathbed, he wished only to be reborn into a peaceful world... and was sent straight to modern-day party-central, Tokyo! Can even a brilliant strategist like Kongming adapt to the wild beats and even wilder party people?! <br>\n<br>\n(Source: Kodansha US, edited)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Party People Koumei",
+        "japanese": "パリピ孔明",
+        "english": "Ya Boy Kongming!"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 5, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Tuesdays at 23:00 (JST)",
+        "producers": [
+          {
+            "name": "Mainichi Broadcasting System",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+          },
+          {
+            "name": "Kodansha",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+          },
+          {
+            "name": "Avex Pictures",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+          },
+          {
+            "name": "DMM pictures",
+            "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+          },
+          {
+            "name": "Bit grooove promotion",
+            "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+          }
+        ],
+        "licensors": [
+          {
+            "name": "Sentai Filmworks",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+          }
+        ],
+        "studios": [
+          {
+            "name": "P.A. Works",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+          }
+        ],
+        "source": "Manga",
+        "themes": [
+          {
+            "name": "Music",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+          },
+          {
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "7.80",
+        "ranked": "#868",
+        "popularity": 4242,
+        "members": 19012,
+        "favorites": 35
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48916/Love_Live_Nijigasaki_Gakuen_School_Idol_Doukoukai_2nd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1586/121947.jpg",
+    "title": {
+      "common": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+      "english": "Love Live! Nijigasaki High School Idol Club"
+    },
+    "description": {
+      "synopsis": "Second season of Love Live! Nijigasaki Gakuen School Idol Doukoukai.",
+      "styled": "Second season of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Love Live! Nijigasaki High School Idol Club 2nd Season",
+        "japanese": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
+        "english": "Love Live! Nijigasaki High School Idol Club"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "13",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 22:00 (JST)",
+        "producers": [
+          {
+            "name": "Lantis",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+          },
+          {
+            "name": "Bushiroad",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+          },
+          {
+            "name": "Sunrise Music",
+            "url": "https://myanimelist.net/anime/producer/1543/Sunrise_Music"
+          },
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          },
+          {
+            "name": "Bandai Namco Filmworks",
+            "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+          },
+          {
+            "name": "Bandai Namco Music Live",
+            "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48916&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+          }
+        ],
+        "source": "Other",
+        "genres": [
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Idols (Female)",
+            "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+          },
+          {
+            "name": "Music",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+          },
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "24 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "8.02",
+        "ranked": "#545",
+        "popularity": 4254,
+        "members": 18992,
+        "favorites": 118
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49556/Love_All_Play",
+    "image": "https://cdn.myanimelist.net/images/anime/1346/120869.jpg",
+    "title": {
+      "common": "Love All Play",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Ryou Mizushima enrolls in junior high and joins the badminton club with great vigor. Although the club didn't have a proper coach, Mizushima improved his skills with his own physical strength by the time he participated in the prefectural tournament. Afterwards, he is approached by the Yokohama Minato High School's badminton coach, Ebihara.\n\nIndecisive and timid, Mizushima hesitates to attend such a prestigious school. However, with his elder sister Rika giving him a strong push, he decides to go to Yokohama Minato. Now blessed with a coach and idiosyncratic teammates, Mizushima will gain experience he's lacked till now, and aims to win the inter-high tournament.\n\n(Source: MAL News)",
+      "styled": "Ryou Mizushima enrolls in junior high and joins the badminton club with great vigor. Although the club didn't have a proper coach, Mizushima improved his skills with his own physical strength by the time he participated in the prefectural tournament. Afterwards, he is approached by the Yokohama Minato High School's badminton coach, Ebihara.<br>\n<br>\nIndecisive and timid, Mizushima hesitates to attend such a prestigious school. However, with his elder sister Rika giving him a strong push, he decides to go to Yokohama Minato. Now blessed with a coach and idiosyncratic teammates, Mizushima will gain experience he's lacked till now, and aims to win the inter-high tournament.<br>\n<br>\n(Source: MAL News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ラブオールプレー",
+        "english": "Love All Play"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 17:30 (JST)",
+        "producers": [
+          {
+            "name": "Yomiuri TV Enterprise",
+            "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+          },
+          {
+            "name": "Poplar Publishing",
+            "url": "https://myanimelist.net/anime/producer/2423/Poplar_Publishing"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49556&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+          },
+          {
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+          }
+        ],
+        "source": "Novel",
+        "genres": [
+          {
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+          }
+        ],
+        "themes": [
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": "6.57",
+        "ranked": "#586",
+        "popularity": 4264,
+        "members": 18911,
+        "favorites": 118
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50338/Kunoichi_Tsubaki_no_Mune_no_Uchi",
+    "image": "https://cdn.myanimelist.net/images/anime/1724/121343.jpg",
+    "title": {
+      "common": "Kunoichi Tsubaki no Mune no Uchi",
+      "english": "In the Heart of Kunoichi Tsubaki"
+    },
+    "description": {
+      "synopsis": "The isolationist Akane Clan, composed of an all-girls body mainly consisting of young kunoichi in training, has a code to which they all must adhere: \"As men are dangerous beings, interacting with them is forbidden.\"\n\nKunoichi Tsubaki, the leader of the Dog Squad, is an excellent trainee with a promising future, but she has started to experience a strange feeling in her heart... whenever the subject of boys is brought up.\n\n(Source: MU, edited)",
+      "styled": "The isolationist Akane Clan, composed of an all-girls body mainly consisting of young kunoichi in training, has a code to which they all must adhere: \"As men are dangerous beings, interacting with them is forbidden.\"<br>\n<br>\nKunoichi Tsubaki, the leader of the Dog Squad, is an excellent trainee with a promising future, but she has started to experience a strange feeling in her heart... whenever the subject of boys is brought up.<br>\n<br>\n(Source: MU, edited)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Inside Tsubaki Kunoichi's Heart",
+        "japanese": "くノ一ツバキの胸の内",
+        "english": "In the Heart of Kunoichi Tsubaki"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 10, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50338&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "CloverWorks",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 4405,
+        "members": 17471,
+        "favorites": 37
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48363/RPG_Fudousan",
+    "image": "https://cdn.myanimelist.net/images/anime/1680/122002.jpg",
+    "title": {
+      "common": "RPG Fudousan",
+      "english": "RPG Real Estate"
+    },
+    "description": {
+      "synopsis": "The story begins 15 years after the demon king was defeated and the world has become peaceful. Kotone, who graduated from school and became a magician, inquired about the kingdom-affiliated RPG Real Estate in order to find a new home. In reality, RPG Real Estate was Kotone's place of employment, and together with Fa, a demi-human, the priest Rufuria, and the soldier Rakira, they help support the searches of new homes for the customers with various circumstances. \n\n(Source: MU, edited)",
+      "styled": "The story begins 15 years after the demon king was defeated and the world has become peaceful. Kotone, who graduated from school and became a magician, inquired about the kingdom-affiliated RPG Real Estate in order to find a new home. In reality, RPG Real Estate was Kotone's place of employment, and together with Fa, a demi-human, the priest Rufuria, and the soldier Rakira, they help support the searches of new homes for the customers with various circumstances. <br>\n<br>\n(Source: MU, edited)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "RPG不動産",
+        "english": "RPG Real Estate"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 21:30 (JST)",
+        "producers": [
+          {
+            "name": "Nippon Columbia",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48363&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Doga Kobo",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.52",
+        "ranked": "#617",
+        "popularity": 4523,
+        "members": 16321,
+        "favorites": 30
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48742/Kono_Healer_Mendokusai",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/121221.jpg",
+    "title": {
+      "common": "Kono Healer, Mendokusai",
+      "english": "Don't Hurt Me, My Healer!"
+    },
+    "description": {
+      "synopsis": "A fantasy and adventure comedy starring Karla, a dark elf cleric who invested too much in her insulting skills, and Alvin, a swordsman who has to put up with her antics. \n\n(Source: Kadokawa, translated)",
+      "styled": "A fantasy and adventure comedy starring Karla, a dark elf cleric who invested too much in her insulting skills, and Alvin, a swordsman who has to put up with her antics. <br>\n<br>\n(Source: Kadokawa, translated)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "This Healer's a Handful",
+        "japanese": "このヒーラー、めんどくさい",
+        "english": "Don't Hurt Me, My Healer!"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Not yet aired",
+        "aired": "Apr 10, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 21:00 (JST)",
+        "producers": [
+          {
+            "name": "Kadokawa",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48742&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Jumondo",
+            "url": "https://myanimelist.net/anime/producer/755/Jumondo"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 4716,
+        "members": 14653,
+        "favorites": 33
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50160/Kingdom_4th_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1823/121015.jpg",
+    "title": {
+      "common": "Kingdom 4th Season",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Fourth season of Kingdom.",
+      "styled": "Fourth season of <i>Kingdom</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Kingdom Season 4",
+        "japanese": "キングダム 第4シリーズ"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 10, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 01:00 (JST)",
+        "producers": [
+          {
+            "name": "NHK",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+          },
+          {
+            "name": "Shueisha",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50160&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50160&t=producers"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Historical",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+          },
+          {
+            "name": "Military",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "R - 17+ (violence & profanity)"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 4725,
+        "members": 14612,
+        "favorites": 139
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49691/Gunjou_no_Fanfare",
+    "image": "https://cdn.myanimelist.net/images/anime/1769/122296.jpg",
+    "title": {
+      "common": "Gunjou no Fanfare",
+      "english": "Fanfare of Adolescence"
+    },
+    "description": {
+      "synopsis": "The story follows three 15-year-old boys who go to a prestigious horse racing academy to become jockeys. The three-year academy is 10 to 20 times harder to enter than most schools, and whoever wishes to enter must pass an academic, physical, and fitness test.\n\nFormerly a member of an idol group winning fans and fame, Yuu Arimura sets out to meet what his heart desires after becoming enamored with horse racing. Having grown up on an island, Shun Kanami has always yearned to ride with horses. Amane Grace was born in England and is lost in the path his parents have set for him, but he still takes on his dream.\n\n(Source: MAL News)",
+      "styled": "The story follows three 15-year-old boys who go to a prestigious horse racing academy to become jockeys. The three-year academy is 10 to 20 times harder to enter than most schools, and whoever wishes to enter must pass an academic, physical, and fitness test.<br>\n<br>\nFormerly a member of an idol group winning fans and fame, Yuu Arimura sets out to meet what his heart desires after becoming enamored with horse racing. Having grown up on an island, Shun Kanami has always yearned to ride with horses. Amane Grace was born in England and is lost in the path his parents have set for him, but he still takes on his dream.<br>\n<br>\n(Source: MAL News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "群青のファンファーレ",
+        "english": "Fanfare of Adolescence"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "13",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 23:30 (JST)",
+        "producers": [
+          {
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          },
+          {
+            "name": "Half H.P Studio",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+          },
+          {
+            "name": "Tokyo MX",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+          },
+          {
+            "name": "BS11",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+          },
+          {
+            "name": "Koei Tecmo Games",
+            "url": "https://myanimelist.net/anime/producer/1498/Koei_Tecmo_Games"
+          },
+          {
+            "name": "Hakuhodo",
+            "url": "https://myanimelist.net/anime/producer/1563/Hakuhodo"
+          },
+          {
+            "name": "Hochi Shimbun",
+            "url": "https://myanimelist.net/anime/producer/2100/Hochi_Shimbun"
+          }
+        ],
+        "licensors": [
+          {
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Lay-duce",
+            "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.24",
+        "ranked": "#765",
+        "popularity": 4753,
+        "members": 14430,
+        "favorites": 71
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49160/Shachiku-san_wa_Youjo_Yuurei_ni_Iyasaretai",
+    "image": "https://cdn.myanimelist.net/images/anime/1190/121945.jpg",
+    "title": {
+      "common": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+      "english": "Miss Shachiku and the Little Baby Ghost"
+    },
+    "description": {
+      "synopsis": "A little ghost girl gets worries when Ms. Fushihara, a corporate slave, is working till midnight, and tries to make her go home. While saying \"Leave now~,\" the ghost girl helps and brings her refreshments, healing Ms. Fushihara's heart with her preciousness. Be healed by the heartwarming daily life of the cute little ghost and the corporate slave Ms. Fushihara.\n\n(Source: MAL News)",
+      "styled": "A little ghost girl gets worries when Ms. Fushihara, a corporate slave, is working till midnight, and tries to make her go home. While saying \"Leave now~,\" the ghost girl helps and brings her refreshments, healing Ms. Fushihara's heart with her preciousness. Be healed by the heartwarming daily life of the cute little ghost and the corporate slave Ms. Fushihara.<br>\n<br>\n(Source: MAL News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Ms. Corporate Slave Wants to be Healed by a Loli Spirit, Shachisaretai",
+        "japanese": "社畜さんは幼女幽霊に癒されたい。",
+        "english": "Miss Shachiku and the Little Baby Ghost"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 7, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Thursdays at 21:00 (JST)",
+        "producers": [
+          {
+            "name": "APDREAM",
+            "url": "https://myanimelist.net/anime/producer/1883/APDREAM"
+          },
+          {
+            "name": "Bit grooove promotion",
+            "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49160&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Project No.9",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Workplace",
+            "url": "https://myanimelist.net/anime/genre/48/Workplace"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.96",
+        "ranked": "#401",
+        "popularity": 5273,
+        "members": 11006,
+        "favorites": 22
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50248/Birdie_Wing__Golf_Girls_Story",
+    "image": "https://cdn.myanimelist.net/images/anime/1064/120541.jpg",
+    "title": {
+      "common": "Birdie Wing: Golf Girls' Story",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Birdie Wing: Golf Girls' Story is a youth story centering on two female golfers. Two girls, Eve and Aoi, who grew up in completely different circumstances and have different play styles, are caught up in the world of women in golf.\n\n(Source: MAL News)",
+      "styled": "<i>Birdie Wing: Golf Girls' Story</i> is a youth story centering on two female golfers. Two girls, Eve and Aoi, who grew up in completely different circumstances and have different play styles, are caught up in the world of women in golf.<br>\n<br>\n(Source: MAL News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "BIRDIE WING -Golf Girls' Story-",
+        "english": "Birdie Wing: Golf Girls' Story"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50248&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Bandai Namco Pictures",
+            "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+          }
+        ],
+        "duration": "23 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.54",
+        "ranked": "#609",
+        "popularity": 5290,
+        "members": 10956,
+        "favorites": 28
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48857/Healer_Girl",
+    "image": "https://cdn.myanimelist.net/images/anime/1727/122415.jpg",
+    "title": {
+      "common": "Healer Girl",
+      "english": null
+    },
+    "description": {
+      "synopsis": "The story will follow four girls who seek to use their songs to heal and soothe the people of their world. The tagline reads, \"Kindhearted, powerful songs heal the world. These are beautiful miracles sung by humanity.\"\n\n(Source: MAL Source)",
+      "styled": "The story will follow four girls who seek to use their songs to heal and soothe the people of their world. The tagline reads, \"Kindhearted, powerful songs heal the world. These are beautiful miracles sung by humanity.\"<br>\n<br>\n(Source: MAL Source)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ヒーラー・ガール",
+        "english": "Healer Girl"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 4, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Mondays at 23:00 (JST)",
+        "producers": [
+          {
+            "name": "Lantis",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+          },
+          {
+            "name": "Live Viewing Japan",
+            "url": "https://myanimelist.net/anime/producer/1823/Live_Viewing_Japan"
+          },
+          {
+            "name": "Bandai Namco Arts",
+            "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=48857&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Studio 3Hz",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+          }
+        ],
+        "source": "Original",
+        "themes": [
+          {
+            "name": "Music",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.81",
+        "ranked": "#467",
+        "popularity": 5403,
+        "members": 10394,
+        "favorites": 18
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/48777/Build_Divide__Code_White",
+    "image": "https://cdn.myanimelist.net/images/anime/1194/121459.jpg",
+    "title": {
+      "common": "Build Divide: Code White",
+      "english": "Build Divide -#FFFFFF- Code White"
+    },
+    "description": {
+      "synopsis": "Second season of Build Divide.",
+      "styled": "Second season of <i>Build Divide</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Build Divide: #000000 2nd Season, Build Divide: Code Black 2nd Season, Build Divide: #FFFFFF",
+        "japanese": "ビルディバイド -#FFFFFF(コードホワイト)-",
+        "english": "Build Divide -#FFFFFF- Code White"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 00:30 (JST)",
+        "producers": [
+          {
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          }
+        ],
+        "licensors": [
+          {
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          }
+        ],
+        "studios": [
+          {
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+          }
+        ],
+        "source": "Mixed media",
+        "genres": [
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          }
+        ],
+        "duration": "23 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.84",
+        "ranked": "#447",
+        "popularity": 5482,
+        "members": 10015,
+        "favorites": 47
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/49342/Shin_Ikkitousen",
+    "image": "https://cdn.myanimelist.net/images/anime/1248/122517.jpg",
+    "title": {
+      "common": "Shin Ikkitousen",
+      "english": null
+    },
+    "description": {
+      "synopsis": "First episode will receive advanced screening on March 27, 2022. Regular TV airing broadcasting will start on May 17, 2022.",
+      "styled": "<span style=\"font-size: 90%;\"><b>First episode will receive advanced screening on March 27, 2022. Regular TV airing broadcasting will start on May 17, 2022.</b></span>"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "New Battle Vixens, Dragon Girls, Ikki Tousen",
+        "japanese": "真・一騎当千",
+        "english": "Shin Ikki Tousen"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "3",
+        "status": "Currently Airing",
+        "aired": "Mar 27, 2022 to May 31, 2022",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Unknown",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49342&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=49342&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Arms",
+            "url": "https://myanimelist.net/anime/producer/38/Arms"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+          },
+          {
+            "name": "Super Power",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "R+ - Mild Nudity"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#139",
+        "popularity": 5550,
+        "members": 9718,
+        "favorites": 45
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50955/Onipan",
+    "image": "https://cdn.myanimelist.net/images/anime/1278/120805.jpg",
+    "title": {
+      "common": "Onipan!",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Three oni-kids who, through the power of the onipan (a portmanteau of \"oni\" and \"pantsu\") become human to help fix the relationship between humans and oni. The three girls transfer into a normal Tokyo high school to aid in their task and help fix their image by revitalizing the town, sometimes jumping headfirst into school events, and other times ... becoming idols!\n\n(Source: Crunchyroll News)",
+      "styled": "Three oni-kids who, through the power of the onipan (a portmanteau of \"oni\" and \"pantsu\") become human to help fix the relationship between humans and oni. The three girls transfer into a normal Tokyo high school to aid in their task and help fix their image by revitalizing the town, sometimes jumping headfirst into school events, and other times ... becoming idols!<br>\n<br>\n(Source: Crunchyroll News)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "おにぱん！",
+        "english": "Onipan!"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 11, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Not scheduled once per week",
+        "producers": [
+          {
+            "name": "Shogakukan-Shueisha Productions",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50955&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Mythology",
+            "url": "https://myanimelist.net/anime/genre/6/Mythology"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 6656,
+        "members": 6197,
+        "favorites": 13
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50685/Kaginado_Season_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1701/120264.jpg",
+    "title": {
+      "common": "Kaginado Season 2",
+      "english": "KAGI-NADO"
+    },
+    "description": {
+      "synopsis": "Second season of Kaginado.",
+      "styled": "Second season of <i>Kaginado</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "かぎなど",
+        "english": "KAGI-NADO"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 13, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 01:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50685&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50685&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50685&t=producers"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "duration": "4 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 7190,
+        "members": 5076,
+        "favorites": 19
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50862/Estab-Life__Great_Escape",
+    "image": "https://cdn.myanimelist.net/images/anime/1811/121606.jpg",
+    "title": {
+      "common": "Estab-Life: Great Escape",
+      "english": "Establishment in Life"
+    },
+    "description": {
+      "synopsis": "The distant future. After reaching its peak, Earth's population fell into decline. AI was developed to help preserve the species and manage the ecosystem; a grand experiment in human diversity. Through genetic engineering, a diverse array of peoples, including beastfolk, magical beings, and more, was created to live in a diverse city separated into walled \"clusters\".\n\nEach cluster developed a unique culture, befitting of the people that lived there. Their lives, and the system, is continually maintained by the AI to ensure survival. \n\n(Source: Polygon Pictures)",
+      "styled": "The distant future. After reaching its peak, Earth's population fell into decline. AI was developed to help preserve the species and manage the ecosystem; a grand experiment in human diversity. Through genetic engineering, a diverse array of peoples, including beastfolk, magical beings, and more, was created to live in a diverse city separated into walled \"clusters\".<br>\n<br>\nEach cluster developed a unique culture, befitting of the people that lived there. Their lives, and the system, is continually maintained by the AI to ensure survival. <br>\n<br>\n(Source: Polygon Pictures)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "エスタブライフ グレイトエスケープ",
+        "english": "Establishment in Life"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "12",
+        "status": "Currently Airing",
+        "aired": "Mar 23, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Thursdays at 00:55 (JST)",
+        "producers": [
+          {
+            "name": "Slow Curve",
+            "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50862&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+          }
+        ],
+        "source": "Mixed media",
+        "genres": [
+          {
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+          }
+        ],
+        "duration": "22 min. per ep.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "5.57",
+        "ranked": "#104",
+        "popularity": 7373,
+        "members": 4832,
+        "favorites": 18
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50678/Kyoukai_Senki_Part_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1968/122304.jpg",
+    "title": {
+      "common": "Kyoukai Senki Part 2",
+      "english": "AMAIM Warrior at the Borderline"
+    },
+    "description": {
+      "synopsis": "Second part of Kyoukai Senki.",
+      "styled": "Second part of <i>Kyoukai Senki</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "境界戦機",
+        "english": "AMAIM Warrior at the Borderline"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 12, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Tuesdays at 00:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50678&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50678&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Sunrise Beyond",
+            "url": "https://myanimelist.net/anime/producer/2004/Sunrise_Beyond"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Mecha",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 7606,
+        "members": 4447,
+        "favorites": 24
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50438/Yatogame-chan_Kansatsu_Nikki_4th_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1549/121406.jpg",
+    "title": {
+      "common": "Yatogame-chan Kansatsu Nikki 4th Season",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Fourth season of Yatogame-chan Kansatsu Nikki.",
+      "styled": "Fourth season of <i>Yatogame-chan Kansatsu Nikki</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "八十亀ちゃんかんさつにっき"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 9, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 20:54 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50438&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50438&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Creators in Pack",
+            "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+          },
+          {
+            "name": "Hayabusa Film",
+            "url": "https://myanimelist.net/anime/producer/2370/Hayabusa_Film"
+          }
+        ],
+        "source": "4-koma manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 8017,
+        "members": 3848,
+        "favorites": 6
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50012/Meitantei_Conan__Zero_no_Tea_Time",
+    "image": "https://cdn.myanimelist.net/images/anime/1445/121082.jpg",
+    "title": {
+      "common": "Meitantei Conan: Zero no Tea Time",
+      "english": "Detective Conan: Zero's Tea Time"
+    },
+    "description": {
+      "synopsis": "Anime adaptation of the spin-off manga Meitantei Conan: Zero no Tea Time that focuses on the life of the triple agent as he attempts to keep all his different roles in check.",
+      "styled": "Anime adaptation of the spin-off manga <i>Meitantei Conan: Zero no Tea Time</i> that focuses on the life of the triple agent as he attempts to keep all his different roles in check."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Detective Conan: Zero no Tea Time, Meitantei Conan: Zero no Nichijou, Zero's Daily Life",
+        "japanese": "名探偵コナン ゼロの日常（ティータイム）",
+        "english": "Detective Conan: Zero's Tea Time"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 5, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Unknown",
+        "producers": [
+          {
+            "name": "Shogakukan",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50012&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50012&t=producers"
+          }
+        ],
+        "source": "Manga",
+        "genres": [
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Detective",
+            "url": "https://myanimelist.net/anime/genre/39/Detective"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+          }
+        ],
+        "duration": "15 min.",
+        "rating": "None"
+      },
+      "statistics": {
+        "score": "6.83",
+        "ranked": "#459",
+        "popularity": 8410,
+        "members": 3283,
+        "favorites": 10
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50607/Yu%E2%98%86Gi%E2%98%86Oh__Go_Rush",
+    "image": "https://cdn.myanimelist.net/images/anime/1556/122518.jpg",
+    "title": {
+      "common": "Yu☆Gi☆Oh!: Go Rush!!",
+      "english": null
+    },
+    "description": {
+      "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+      "styled": "No synopsis information has been added to this title. Help improve our database by adding a synopsis <a href=\"/dbchanges.php?aid=50607&amp;t=synopsis\">here</a>."
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Yuu Gi Ou: Go Rush!!",
+        "japanese": "遊☆戯☆王ゴーラッシュ!!"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 07:30 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50607&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50607&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Bridge",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+          }
+        ],
+        "source": "Game",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "5.90",
+        "ranked": "#927",
+        "popularity": 9140,
+        "members": 2478,
+        "favorites": 10
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50789/Jantama_Pong%E2%98%86",
+    "image": "https://cdn.myanimelist.net/images/anime/1960/120445.jpg",
+    "title": {
+      "common": "Jantama Pong☆",
+      "english": "Mahjong Soul Pon☆"
+    },
+    "description": {
+      "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+      "styled": "No synopsis information has been added to this title. Help improve our database by adding a synopsis <a href=\"/dbchanges.php?aid=50789&amp;t=synopsis\">here</a>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "じゃんたま PONG☆",
+        "english": "Mahjong Soul Pon☆"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Not yet aired",
+        "aired": "Apr 9, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 01:50 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50789&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50789&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Scooter Films",
+            "url": "https://myanimelist.net/anime/producer/2379/Scooter_Films"
+          }
+        ],
+        "source": "Game",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "duration": "1 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": null,
+        "popularity": 9492,
+        "members": 2166,
+        "favorites": 6
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50060/Shadowverse_Flame",
+    "image": "https://cdn.myanimelist.net/images/anime/1483/120545.jpg",
+    "title": {
+      "common": "Shadowverse Flame",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Shadowverse Flame features a new protagonist Light Tenryu and its story is set in Shadovar College, a facility that trains professional players of the Shadowverse game. Tenryu Light, a transfer student, decides to join \"Seventh Flame,\" one of the seven Shadovar clubs. However, Seventh Flame is on the verge of closure due to a lack of members! In order to avoid the club's demise, Light decides to look for new members. But what awaits him are powerful rivals who control a wide variety of cards...\n\n(Source: Crunchyroll)",
+      "styled": "Shadowverse Flame features a new protagonist Light Tenryu and its story is set in Shadovar College, a facility that trains professional players of the Shadowverse game. Tenryu Light, a transfer student, decides to join \"Seventh Flame,\" one of the seven Shadovar clubs. However, Seventh Flame is on the verge of closure due to a lack of members! In order to avoid the club's demise, Light decides to look for new members. But what awaits him are powerful rivals who control a wide variety of cards...<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    "data": {
+      "alternativetitles": {
+        "synonyms": "Shadowverse F",
+        "japanese": "シャドウバースF（フレイム）",
+        "english": "Shadowverse Flame"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 2, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Saturdays at 10:00 (JST)",
+        "producers": [
+          {
+            "name": "Sonilude",
+            "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50060&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+          }
+        ],
+        "source": "Game",
+        "genres": [
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          }
+        ],
+        "duration": "24 min.",
+        "rating": "PG-13 - Teens 13 or older"
+      },
+      "statistics": {
+        "score": "6.40",
+        "ranked": "#680",
+        "popularity": 9848,
+        "members": 1908,
+        "favorites": 10
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50250/Chiikawa",
+    "image": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
+    "title": {
+      "common": "Chiikawa",
+      "english": null
+    },
+    "description": {
+      "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+      "styled": "No synopsis information has been added to this title. Help improve our database by adding a synopsis <a href=\"/dbchanges.php?aid=50250&amp;t=synopsis\">here</a>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "ちいかわ"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 4, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Unknown",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50250&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50250&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Doga Kobo",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+          }
+        ],
+        "source": "Web manga",
+        "genres": [
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Seinen",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+          }
+        ],
+        "duration": "1 min.",
+        "rating": "G - All Ages"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#159",
+        "popularity": 13912,
+        "members": 412,
+        "favorites": 2
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/51155/Cap_Kakumei_Bottleman_DX",
+    "image": "https://cdn.myanimelist.net/images/anime/1699/121192.jpg",
+    "title": {
+      "common": "Cap Kakumei Bottleman DX",
+      "english": "Cap Revolution Bottleman DX"
+    },
+    "description": {
+      "synopsis": "Second season of Cap Kakumei Bottleman.",
+      "styled": "Second season of <i>Cap Kakumei Bottleman</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "キャップ革命 ボトルマンDX",
+        "english": "Cap Revolution Bottleman DX"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 09:30 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=51155&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=51155&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Gaina",
+            "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+          }
+        ],
+        "source": "Game",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "G - All Ages"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#158",
+        "popularity": 15989,
+        "members": 236,
+        "favorites": 1
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50193/Motto_Majime_ni_Fumajime_Kaiketsu_Zorori_3rd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1186/118941.jpg",
+    "title": {
+      "common": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Third season of Motto! Majime ni Fumajime Kaiketsu Zorori.",
+      "styled": "Third season of <i>Motto! Majime ni Fumajime Kaiketsu Zorori</i>."
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "もっと! まじめにふまじめ かいけつゾロリ 第3シリーズ"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 6, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Wednesdays at 19:00 (JST)",
+        "producers": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50193&t=producers"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50193&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+          },
+          {
+            "name": "Bandai Namco Pictures",
+            "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+          }
+        ],
+        "source": "Book",
+        "genres": [
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "PG - Children"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#127",
+        "popularity": 16404,
+        "members": 210,
+        "favorites": 0
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/51037/Duel_Masters_King_Max",
+    "image": "https://cdn.myanimelist.net/images/anime/1218/120963.jpg",
+    "title": {
+      "common": "Duel Masters King Max",
+      "english": null
+    },
+    "description": {
+      "synopsis": "The story of Duel Masters King entered the \"next stage\" with the new series. The theme of the new series is \"time travel.\"\n\n(Source: ANN)",
+      "styled": "The story of Duel Masters King entered the \"next stage\" with the new series. The theme of the new series is \"time travel.\"<br>\n<br>\n(Source: ANN)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "DUEL MASTERS キングMAX"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 3, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Sundays at 08:30 (JST)",
+        "producers": [
+          {
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=51037&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": "Brain's Base",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+          },
+          {
+            "name": "Shogakukan Music & Digital Entertainment",
+            "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+          }
+        ],
+        "source": "Original",
+        "genres": [
+          {
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+          },
+          {
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+          },
+          {
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+          },
+          {
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          }
+        ],
+        "themes": [
+          {
+            "name": "Time Travel",
+            "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "G - All Ages"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#162",
+        "popularity": 16780,
+        "members": 189,
+        "favorites": 4
+      }
+    }
+  },
+  {
+    "url": "https://myanimelist.net/anime/50600/Insect_Land",
+    "image": "https://cdn.myanimelist.net/images/anime/1991/120109.jpg",
+    "title": {
+      "common": "Insect Land",
+      "english": null
+    },
+    "description": {
+      "synopsis": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.\n\n(Source: ANN)",
+      "styled": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.<br>\n<br>\n(Source: ANN)"
+    },
+    "data": {
+      "alternativetitles": {
+        "japanese": "インセクトランド"
+      },
+      "information": {
+        "type": {
+          "name": "TV",
+          "url": "https://myanimelist.net/topanime.php?type=tv"
+        },
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "aired": "Apr 4, 2022 to ?",
+        "premiered": {
+          "name": "Spring 2022",
+          "url": "https://myanimelist.net/anime/season/2022/spring"
+        },
+        "broadcast": "Mondays at 08:45 (JST)",
+        "producers": [
+          {
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+          }
+        ],
+        "licensors": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50600&t=producers"
+          }
+        ],
+        "studios": [
+          {
+            "name": null,
+            "url": "https://myanimelist.net/dbchanges.php?aid=50600&t=producers"
+          }
+        ],
+        "source": "Picture book",
+        "genres": [
+          {
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+          }
+        ],
+        "demographic": [
+          {
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+          }
+        ],
+        "duration": "Unknown",
+        "rating": "G - All Ages"
+      },
+      "statistics": {
+        "score": null,
+        "ranked": "#170",
+        "popularity": 16782,
+        "members": 189,
+        "favorites": 2
+      }
+    }
+  }
+]
