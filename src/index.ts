@@ -1,18 +1,15 @@
-import DiscordJS, { Intents, MessageEmbed  } from 'discord.js';
+import DiscordJS, { Intents } from 'discord.js';
 import dotenv from 'dotenv';
 import fs from 'fs';
+import {filterObjects, filterOnKeys, stringfyCleanUp, createMessageEmbed} from './requestHandlers'
+import {getRandomIntInclusive} from './randomNumber'
+
 dotenv.config()
 
 
 const animeData = JSON.parse(fs.readFileSync('./data/springAnimes', 'utf8'));
 //console.log(animeData[0])
 
-
-function getRandomIntInclusive(min:number, max:number) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min + 1) + min); //The maximum is inclusive and the minimum is inclusive
-}
 const client = new DiscordJS.Client({
     intents: [
         Intents.FLAGS.GUILDS,
@@ -40,7 +37,7 @@ client.on('ready', () => {
 
     commands?.create({
         name:'find',
-        description: "Finds an Anime.",
+        description: "Finds an anime by name.",
         options: [
             {
                 name: 'anime',
@@ -52,7 +49,7 @@ client.on('ready', () => {
     })
     commands?.create({
         name:'genre',
-        description: "Finds an Anime by genre.",
+        description: "Finds any anime by genre.",
         options: [
             {
                 name: 'genre',
@@ -65,42 +62,6 @@ client.on('ready', () => {
     
 })
 
-const stringfyCleanUp = (stringfyItem: any) => {
-    let newVar = stringfyItem.replace(/(name)*(url)*([["{}:\]])/g, "");
-    console.log(newVar);
-    let array = newVar.split(',');
-    let concatString: any = [];
-    array.forEach((e: string, i: any) => {
-        if (i % 2 === 0) {
-            let str = "`" + e.slice(0, e.length) + "`";
-            concatString.push(str);
-        }
-    })
-    return concatString.join(" ");
-}
-const filterObjects = (term:any, obj: any, original: any, store: any) => {
-    const data = store;
-    if (typeof obj === "object" && obj) {
-        console.log(Object.values(obj));
-        Object.values(obj).map((value) => {
-        if (typeof value === "object") {
-            filterObjects(term,value, original, data);
-        } else if (("" + value).toLowerCase().replace(/\s+/g, "").includes(term.toLowerCase().replace(/\s+/g, ""))  && value) {
-            data.push(original);
-        }
-    });
-    } else if (("" + obj).toLowerCase().replace(/\s+/g, "").includes(term.toLowerCase().replace(/\s+/g, "")) && obj) {
-        data.push(original);
-    }
-    return data;
-};
-
-const filterOnKeys = (stringKey:any) => {
-    return animeData.filter((e:any) => {
-        return e?.data?.information?.genres?.filter((obj:any) => {return obj.name.toLowerCase() === stringKey?.toLowerCase()}).length > 0;
-    });
-}
-
 client.on('interactionCreate', async (interaction) => {
     if (!interaction.isCommand()) return;
 
@@ -110,71 +71,81 @@ client.on('interactionCreate', async (interaction) => {
     let stringGenres;
     let anime;
     let match;
+    let embed;
+    let warning;
     switch (commandName) {
         case 'pick': 
-            const num = getRandomIntInclusive(0, animeData.length-1);
-            anime = animeData[num];
-            //console.log(anime?.title?.common);
-            stringThemes = stringfyCleanUp(JSON.stringify(anime?.data?.information?.themes ? anime?.data?.information?.themes : "N/A" ));
-            stringStudios = stringfyCleanUp(JSON.stringify(anime?.data?.information?.studios ? anime?.data?.information?.studios : "N/A" ));
-            stringGenres = stringfyCleanUp(JSON.stringify(anime?.data?.information?.genres ? anime?.data?.information?.genres : "N/A" ));
-            const embed1 = new MessageEmbed()
-                .setTitle(anime?.title?.english || anime?.title?.common)
-                .setColor('DARK_VIVID_PINK')
-                .setImage(anime.image)
-                .setURL(anime.url)
+            try {
+                const num = getRandomIntInclusive(0, animeData.length-1);
+                anime = animeData[num];
+                //console.log(anime?.title?.common);
+                stringThemes = stringfyCleanUp(JSON.stringify(anime?.data?.information?.themes ? anime?.data?.information?.themes : "N/A" ));
+                stringStudios = stringfyCleanUp(JSON.stringify(anime?.data?.information?.studios ? anime?.data?.information?.studios : "N/A" ));
+                stringGenres = stringfyCleanUp(JSON.stringify(anime?.data?.information?.genres ? anime?.data?.information?.genres : "N/A" ));
+                embed = createMessageEmbed(anime);    
+                embed.addField("Studios", stringStudios || "N/A", false);
+                embed.addField("Themes", stringThemes || "N/A", false);
+                embed.addField("Genres", stringGenres || "N/A", false);
+                interaction.reply({
+                    embeds: [embed],
+                    ephemeral: true,        
+                });
+            }catch {
+                console.log('Could not find random anime');
+            }
             
-            embed1.addField("Studios", stringStudios || "N/A", false);
-            embed1.addField("Themes", stringThemes || "N/A", false);
-            embed1.addField("Genres", stringGenres || "N/A", false);
-
-            interaction.reply({
-                embeds: [embed1],
-                ephemeral: false,        
-            });
             break;
         case 'find': 
-            match = animeData.filter((obj: any) => {
-                const [first] = filterObjects(options.getString('anime'), obj, obj, []);
-                return first;
-            })
-            
-            anime = match[0];
-            console.log(anime);
-            stringThemes = stringfyCleanUp(JSON.stringify(anime?.data?.information?.themes ? anime?.data?.information?.themes : "N/A" ));
-            stringStudios = stringfyCleanUp(JSON.stringify(anime?.data?.information?.studios ? anime?.data?.information?.studios : "N/A" ));
-            stringGenres = stringfyCleanUp(JSON.stringify(anime?.data?.information?.genres ? anime?.data?.information?.genres : "N/A" ));
-            const embed2 = new MessageEmbed()
-                .setTitle(anime?.title?.english || anime?. title?.common)
-                .setColor('DARK_BLUE')
-                .setImage(anime.image)
-                .setURL(anime.url);
-            embed2.addField("Studios", stringStudios || "N/A", false);
-            embed2.addField("Themes", stringThemes || "N/A", false);
-            embed2.addField("Genres", stringGenres || "N/A", false);
-            interaction.reply({
-                embeds: [embed2],
-                ephemeral: false,
-            });
+            try {
+                match = animeData.filter((obj: any) => {
+                    const [first] = filterObjects(options.getString('anime'), obj, obj, []);
+                    return first;
+                })
+                
+                anime = match[0];
+                console.log(anime);
+                stringThemes = stringfyCleanUp(JSON.stringify(anime?.data?.information?.themes ? anime?.data?.information?.themes : "N/A" ));
+                stringStudios = stringfyCleanUp(JSON.stringify(anime?.data?.information?.studios ? anime?.data?.information?.studios : "N/A" ));
+                stringGenres = stringfyCleanUp(JSON.stringify(anime?.data?.information?.genres ? anime?.data?.information?.genres : "N/A" ));
+                embed = createMessageEmbed(anime);
+                embed.addField("Studios", stringStudios || "N/A", false);
+                embed.addField("Themes", stringThemes || "N/A", false);
+                embed.addField("Genres", stringGenres || "N/A", false);
+                interaction.reply({
+                    embeds: [embed],
+                    ephemeral: true,
+                });
+            }catch{
+                warning = 'No new anime exist.'
+                interaction.reply({
+                    content: warning,
+                    ephemeral: true,
+                })
+            }
             break;
         case 'genre':
-            match  = filterOnKeys(options.getString('genre'));
-            const currentAnime = match[getRandomIntInclusive(0, match.length-1)];
-            stringThemes = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.themes ? currentAnime?.data?.information?.themes : "N/A" ));
-            stringStudios = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.studios ? currentAnime?.data?.information?.studios : "N/A" ));
-            stringGenres = stringfyCleanUp(JSON.stringify(currentAnime?.data?.information?.genres ? currentAnime?.data?.information?.genres : "N/A" ));
-            const embed3 = new MessageEmbed()
-                .setTitle(currentAnime?.title?.english || currentAnime?. title?.common)
-                .setColor('DARK_BLUE')
-                .setImage(currentAnime.image)
-                .setURL(currentAnime.url);
-            embed3.addField("Studios", stringStudios || "N/A", false);
-            embed3.addField("Themes", stringThemes || "N/A", false);
-            embed3.addField("Genres", stringGenres || "N/A", false);
-            interaction.reply({
-                embeds: [embed3],
-                ephemeral: false,
-            });
+            try{
+                match  = filterOnKeys(options.getString('genre'), animeData);
+                anime = match[getRandomIntInclusive(0, match.length-1)];
+                stringStudios = stringfyCleanUp(JSON.stringify(anime?.data?.information?.studios ? anime?.data?.information?.studios : "N/A" ));
+                stringThemes = stringfyCleanUp(JSON.stringify(anime?.data?.information?.themes ? anime?.data?.information?.themes : "N/A" ));
+                stringGenres = stringfyCleanUp(JSON.stringify(anime?.data?.information?.genres ? anime?.data?.information?.genres : "N/A" ));
+                embed = createMessageEmbed(anime);
+                embed.addField("Studios", stringStudios || "N/A", false);
+                embed.addField("Themes", stringThemes || "N/A", false);
+                embed.addField("Genres", stringGenres || "N/A", false);
+                interaction.reply({
+                    embeds: [embed],
+                    ephemeral: true,
+                });
+            }catch{
+                warning = 'No such ' + commandName + ' exist.'
+                interaction.reply({
+                    content: warning,
+                    ephemeral: true,
+                })
+                console.log('error')
+            }
             break;
 
         default: return;
